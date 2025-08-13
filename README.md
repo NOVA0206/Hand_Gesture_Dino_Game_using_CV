@@ -44,7 +44,6 @@ Make sure you have **Python 3.7+** installed.
    ```bash
    git clone https://github.com/yourusername/Hand_Gesture_Dino_Game_using_CV.git
    cd Hand_Gesture_Dino_Game_using_CV
-````
 
 2. Install dependencies:
 
