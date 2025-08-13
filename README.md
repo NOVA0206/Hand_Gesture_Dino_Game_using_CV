@@ -99,3 +99,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [OpenCV](https://opencv.org/) — Computer vision library
 * [MediaPipe](https://mediapipe.dev/) — Hand tracking solution by Google
 * Chrome Dino Game — Built into Google Chrome
+
+✉️ Contact For any questions or inquiries, reach out to:
+
+Author: Jeevan Ramesh Jadhav Email: jeevanj020604@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/jeevanjadhav02/
+
+Github Username: NOVA0206
+
+Built with ❤️ using Power BI.
