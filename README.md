@@ -38,7 +38,8 @@ The detection is continuous, so you can play the game without touching the keybo
 
 🎥 Gameplay Demo
 You can watch the actual gameplay demo below:
-![Gameplay Demo](gameplay.gif)
+
+(gameplay.gif)
 
 ---
 
