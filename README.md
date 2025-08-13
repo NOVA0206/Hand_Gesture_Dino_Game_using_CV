@@ -93,5 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [OpenCV](https://opencv.org/) — Computer vision library
 * [MediaPipe](https://mediapipe.dev/) — Hand tracking solution by Google
 * Chrome Dino Game — Built into Google Chrome
-
-```
